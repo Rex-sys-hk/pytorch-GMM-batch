@@ -7,4 +7,4 @@ https://stackoverflow.com/questions/65755730/estimating-mixture-of-gaussian-mode
 This is a repo for GMM parameter regression using pytorch. To accomlish parallely treating several GMM model.
 
 TODO:
-  [] experiment on batch learning
+- [ ] experiment on batch learning
